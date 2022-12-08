@@ -1,0 +1,21 @@
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\bin\Debug\prevodnik.exe.config
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\bin\Debug\prevodnik.exe
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\bin\Debug\prevodnik.pdb
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\obj\Debug\prevodnik.csproj.AssemblyReference.cache
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\obj\Debug\prevodnik.csproj.SuggestedBindingRedirects.cache
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\obj\Debug\prevodnik.Form1.resources
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\obj\Debug\prevodnik.Properties.Resources.resources
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\obj\Debug\prevodnik.csproj.GenerateResource.cache
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\obj\Debug\prevodnik.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\obj\Debug\prevodnik.exe
+G:\Dokumenty\Visual Studio 2022\kody\prevodnik\prevodnik\obj\Debug\prevodnik.pdb
+E:\downloads\prevodnik-main\prevodnik\prevodnik\bin\Debug\prevodnik.exe.config
+E:\downloads\prevodnik-main\prevodnik\prevodnik\bin\Debug\prevodnik.exe
+E:\downloads\prevodnik-main\prevodnik\prevodnik\obj\Debug\prevodnik.csproj.AssemblyReference.cache
+E:\downloads\prevodnik-main\prevodnik\prevodnik\obj\Debug\prevodnik.Form1.resources
+E:\downloads\prevodnik-main\prevodnik\prevodnik\obj\Debug\prevodnik.Properties.Resources.resources
+E:\downloads\prevodnik-main\prevodnik\prevodnik\obj\Debug\prevodnik.csproj.GenerateResource.cache
+E:\downloads\prevodnik-main\prevodnik\prevodnik\obj\Debug\prevodnik.csproj.CoreCompileInputs.cache
+E:\downloads\prevodnik-main\prevodnik\prevodnik\obj\Debug\prevodnik.exe
+E:\downloads\prevodnik-main\prevodnik\prevodnik\obj\Debug\prevodnik.pdb
+E:\downloads\prevodnik-main\prevodnik\prevodnik\bin\Debug\prevodnik.pdb
